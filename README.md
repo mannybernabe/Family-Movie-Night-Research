@@ -1,4 +1,4 @@
-Family Movie Night Research
+Family Movie Night
 =====================
 
 An interactive scatter plot is generated using data aggregated by [Rotten Tomatoes](http://www.rottentomatoes.com).  Please see my [blog post](http://www.wisdomordata.com/streaming-data-consciousness/2015/1/10/family-movie-night-1) for the visual.
