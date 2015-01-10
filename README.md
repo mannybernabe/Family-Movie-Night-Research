@@ -8,4 +8,4 @@ Read it [here](https://benjaminlmoore.wordpress.com/2014/05/05/what-are-the-most
 Also, with plotting with Plotly, I was added by a helpful rOpenSci [post](http://ropensci.org/blog/2014/04/17/plotly/).
 
 
-![My Figure](images/movie.jpg)
+![My Figure](images/moviedog.jpg)
